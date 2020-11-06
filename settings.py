@@ -26,7 +26,7 @@ SECRET_KEY = 'j^0oomuefw!&e1a4nw#qg2n4&q$bz3r4$yn5k840ohddb&he99'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-STATICFILES_DIRS = [r"C:\Users\GOPIKA\Desktop\django\first\static", ]
+STATICFILES_DIRS = [r"C:\Users\PRIYANSHU\Desktop\django\first\static", ]
 
 # Application definition
 
